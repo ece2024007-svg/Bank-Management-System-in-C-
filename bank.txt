@@ -1,0 +1,126 @@
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 1
+
+Enter Account Number: 456879
+Enter Customer Name: Shankhadeep Bhuiya 
+Enter Initial Balance: 60000
+
+Account Created Successfully!
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 1
+
+Enter Account Number: 4568923 
+Enter Customer Name: Arghadeep Patra 
+Enter Initial Balance: 100000
+
+Account Created Successfully!
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 1
+
+Enter Account Number: 2124126
+Enter Customer Name: Sohini Bhuiya 
+Enter Initial Balance: 200000
+
+Account Created Successfully!
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 2
+Enter Account Number: 456892
+Enter Amount: 5000
+
+Deposit Successful!
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 4
+Enter Account Number: 456892
+
+Account Found
+Name: Arghadeep Patra 
+Balance: Rs. 105000
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 3
+Enter Account Number: 2124126
+Enter Amount: 2500
+
+Withdrawal Completed!
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 4
+Enter Account Number: 2124126
+
+Account Found
+Name: Sohini Bhuiya 
+Balance: Rs. 197500
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 3
+Enter Account Number: 456879
+Enter Amount: 8000
+
+Withdrawal Completed!
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 4
+Enter Account Number: 456879
+
+Account Found
+Name: Shankhadeep Bhuiya 
+Balance: Rs. 52000
+
+====== BANK MANAGEMENT SYSTEM ======
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Check
+5. Exit
+Enter Choice: 5
+Thank You!
